@@ -12,7 +12,7 @@ public class MainTugas {
         Matkul matkul1 = new Matkul("PBO", "Pemrograman Berbasis Objek", dosen1);
         Matkul matkul2 = new Matkul("MANPRO", "Manajemen Proyek", dosen2);
         Matkul matkul3 = new Matkul("DESPROWEB", "Desain dan Pemrograman Web", dosen3);
-        Matkul matkul4 = new Matkul("GUI", "Desain Interface", dosen3);
+        Matkul matkul4 = new Matkul("GUI", "Desain Antarmuka", dosen3);
 
         Mahasiswa mahasiswa1 = new Mahasiswa("Naufal", "2241720097", prodi1);
         Mahasiswa mahasiswa2 = new Mahasiswa("Irsyad", "2241730197", prodi2);

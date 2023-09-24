@@ -79,6 +79,7 @@ Pertanyaan :
    object `m` untuk atribut mobil dan object `s` untuk atribut sopir.
 5. Perhatikan class MainPercobaan2. Untuk apakah proses `p.hitungBiayaTotal()` tersebut ? <br>
    **Jawab :** <br>
+   Untuk menghitung total dari biaya rental (mobil beserta sopir).
 6. Perhatikan class MainPercobaan2, coba tambahkan pada baris terakhir dari method main dan amati perubahan saat di‑run!
 
    ```
