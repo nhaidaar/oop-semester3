@@ -1,9 +1,16 @@
-# Praktikum 4 - Relasi Kelas
+# Praktikum 6 - Inheritance
 
 Nama : Muhammad Naufal Haidar Setyawan <br>
 NIM : 2241720097 <br>
 Kelas : 2C <br>
 No. Absen : 18 <br>
+
+## Latihan Tugas Teori
+
+Tuliskan program yang berfungsi untuk menghitung luas dan keliling bangun datar.
+![soalteori](lib/soal_teori.png)
+**Jawab :**  
+Kode ada di folder `/LatihanTeori` <br>
 
 ## Percobaan 1 (Extends)
 
